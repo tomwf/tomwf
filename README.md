@@ -1,7 +1,6 @@
 
-👋 Hi, I’m @tomwf.  
-👀 I’m interested in Programming.  
-🌱 I’m currently learning:
+👋 Hi, I’m @tomwf.   
+🌱 I’m currently learning Web Development with the following technologies:
 - HTML
 - CSS
 - Javascript
