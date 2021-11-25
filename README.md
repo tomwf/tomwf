@@ -1,7 +1,13 @@
 
 👋 Hi, I’m @tomwf.  
 👀 I’m interested in Programming.  
-🌱 I’m currently learning HTML, CSS, Javascript.  
+🌱 I’m currently learning:
+- HTML
+- CSS
+- Javascript
+- Sass
+- jQuery
+-   
 💞️ I’m looking to collaborate on anything that can improve my skills.  
 📫 How to reach me: chowkirthmas@gmail.com  
 
