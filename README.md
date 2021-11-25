@@ -7,7 +7,7 @@
 - Javascript
 - Sass
 - jQuery
--   
+
 💞️ I’m looking to collaborate on anything that can improve my skills.  
 📫 How to reach me: chowkirthmas@gmail.com  
 
