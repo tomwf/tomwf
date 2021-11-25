@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @tomwf.   
+👋 Hi, I’m Thomas Chow.   
 🌱 I’m currently learning Web Development with the following technologies:
 - HTML
 - CSS
