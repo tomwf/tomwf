@@ -6,6 +6,8 @@
 - Javascript
 - Sass
 - jQuery
+- Nextjs
+- React
 
 💞️ I’m looking to collaborate on anything that can improve my skills.  
 📫 How to reach me: chowkirthmas@gmail.com  
