@@ -4,7 +4,7 @@
 
 I'm Thomas Chow, a self-taught Front End Web Developer focused on developing React Applications.
 
-## 🛠 Skills
+## 🌱 Skills
 
 ### Languages
 ![](https://img.shields.io/badge/JAVASCRIPT-555555?logo=Javascript&logoColor=F7DF1E&style=for-the-badge)
@@ -38,15 +38,6 @@ I'm Thomas Chow, a self-taught Front End Web Developer focused on developing Rea
 
 # 🔗 Links
 ![](https://img.shields.io/badge/GMAIL-EA4335?link=mailto:tomwf@gmail.com&link=mailto:tomwf@gmail.com&logo=Gmail&logoColor=white&style=for-the-badge)
-
-🌱 I’m currently learning Web Development with the following technologies:
-- HTML
-- CSS
-- Javascript
-- Sass
-- jQuery
-- Nextjs
-- React
 
 💞️ I’m looking to collaborate on anything that can improve my skills.  
 📫 How to reach me: tomwf@gmail.com  
