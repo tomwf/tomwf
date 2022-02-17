@@ -2,7 +2,7 @@
 # 👋 Hi there!
 ## About me
 
-I'm Thomas Chow, a self-taught Front End Web Developer focused on developing React Applications
+I'm Thomas Chow, a self-taught Front End Web Developer focused on developing React Applications.
 
 ## 🛠 Skills
 
@@ -30,6 +30,14 @@ I'm Thomas Chow, a self-taught Front End Web Developer focused on developing Rea
 ![](https://img.shields.io/badge/Inkscape-w?logo=Inkscape&logoColor=white&color=000000&style=for-the-badge)
 ![](https://img.shields.io/badge/Figma-w?logo=Figma&logoColor=white&color=F24E1E&style=for-the-badge)
 ![](https://img.shields.io/badge/Canva-w?logo=Canva&logoColor=white&color=00C4CC&style=for-the-badge)
+
+# 🖥 Workspace Setup
+![](https://img.shields.io/badge/MACOS-w?logo=Apple&logoColor=white&color=000000&style=for-the-badge)
+![](https://img.shields.io/badge/VIM-w?logo=Vim&logoColor=white&color=019733&style=for-the-badge)
+
+# 🔗 Links
+![mailto:tomwf@gmail.com](https://img.shields.io/badge/GMAIL-w?logo=Gmail&logoColor=white&color=EA4335&style=for-the-badge)
+
 🌱 I’m currently learning Web Development with the following technologies:
 - HTML
 - CSS
