@@ -37,7 +37,7 @@ I'm Thomas Chow, a self-taught Front End Web Developer focused on developing Rea
 
 
 # 🔗 Links
-![](https://img.shields.io/badge/GMAIL-w?link=mailto:tomwf@gmail.com&link=mailto:tomwf@gmail.com&logo=Gmail&logoColor=white&color=EA4335&style=for-the-badge)
+![](https://img.shields.io/badge/GMAIL-EA4335?link=mailto:tomwf@gmail.com&link=mailto:tomwf@gmail.com&logo=Gmail&logoColor=white&style=for-the-badge)
 
 🌱 I’m currently learning Web Development with the following technologies:
 - HTML
