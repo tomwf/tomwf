@@ -37,12 +37,12 @@ I'm Thomas Chow, a self-taught Front End Web Developer focused on developing Rea
 
 
 # 🔗 Links
-[![](https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:tomwf@gmail.com)
+[![](https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:tomwf.chow@gmail.com)
 [![](https://img.shields.io/badge/LINKEDIN-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/thomas-chow-68764530)
 
 
 💞️ I’m looking to collaborate on anything that can improve my skills.  
-📫 How to reach me: tomwf@gmail.com  
+📫 How to reach me: tomwf.chow@gmail.com
 
 <!---
 tomwf/tomwf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
