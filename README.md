@@ -19,6 +19,11 @@ I'm Thomas Chow, a self-taught Front End Web Developer focused on developing Rea
 ![](https://img.shields.io/badge/Sass-w?logo=Sass&logoColor=white&color=CC6699&style=for-the-badge)
 ![](https://img.shields.io/badge/HTML-w?logo=HTML5&logoColor=white&color=E34F26&style=for-the-badge)
 ![](https://img.shields.io/badge/CSS-w?logo=CSS3&logoColor=white&color=1572B6&style=for-the-badge)
+
+### Design Tools
+![](https://img.shields.io/badge/Inkscape-w?logo=Inkscape&logoColor=white&color=000000&style=for-the-badge)
+![](https://img.shields.io/badge/Figma-w?logo=Figma&logoColor=white&color=F24E1E&style=for-the-badge)
+![](https://img.shields.io/badge/Canva-w?logo=Canva&logoColor=white&color=00C4CC&style=for-the-badge)
 🌱 I’m currently learning Web Development with the following technologies:
 - HTML
 - CSS
