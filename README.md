@@ -5,6 +5,9 @@
 I'm Thomas Chow, a self-taught Front End Web Developer focused on developing React Applications
 
 ## 🛠 Skills
+
+### Languages
+![](https://img.shields.io/badge/PYTHON-w?logo=Python&logoColor=white&color=3776AB&style=for-the-badge)
 🌱 I’m currently learning Web Development with the following technologies:
 - HTML
 - CSS
