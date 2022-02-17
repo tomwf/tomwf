@@ -1,6 +1,5 @@
 
 # 👋 Hi there!
-## ✨ About me
 
 I'm Thomas Chow, a self-taught Front End Web Developer focused on developing React Applications.
 
