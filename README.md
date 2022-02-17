@@ -15,7 +15,7 @@ I'm Thomas Chow, a self-taught Front End Web Developer focused on developing Rea
 ![](https://img.shields.io/badge/REACT-555555?logo=React&logoColor=61DAFB&style=for-the-badge)
 ![](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/CHAKRA%20UI-319795?logo=Chakra%20UI&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/06B6D4%20CSS-w?logo=Tailwind%20CSS&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
