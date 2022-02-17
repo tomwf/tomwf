@@ -27,8 +27,7 @@ I'm Thomas Chow, a self-taught Front End Web Developer focused on developing Rea
 
 ## 🛠 Tools
 
-### Development Tools
-![](https://img.shields.io/badge/MACOS-000000?logo=Apple&logoColor=white&style=for-the-badge)
+### Coding Tools
 ![](https://img.shields.io/badge/ITERM2-000000?logo=iTerm2&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/VIM-019733?logo=Vim&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/TMUX-1BB91F?logo=tmux&logoColor=white&style=for-the-badge)
