@@ -1,5 +1,10 @@
 
-👋 Hi, I’m Tom.   
+# 👋 Hi there!
+## About me
+
+I'm Thomas Chow, a self-taught Front End Web Developer focused on developing React Applications
+
+## 🛠 Skills
 🌱 I’m currently learning Web Development with the following technologies:
 - HTML
 - CSS
