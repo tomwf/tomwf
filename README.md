@@ -1,7 +1,7 @@
 
 # 👋 Hi there!
 
-I'm Thomas Chow, a self-taught Front End Web Developer who loves vim and coding React Applications.
+I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding React Applications.
 
 ## 🌱 Skills
 
