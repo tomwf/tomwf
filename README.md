@@ -32,6 +32,7 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding
 ![](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge)
 
 ### Testing
+![](https://img.shields.io/badge/Mocha-8D6748?logo=Mocha&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Chai-A30701?logo=Chai&logoColor=white&style=for-the-badge)
 
 
