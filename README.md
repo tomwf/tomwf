@@ -12,13 +12,13 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding
 ### Front End Development
 ![](https://img.shields.io/badge/VUE.JS-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/SVELTE-FF3E00?logo=Svelte&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/NEXT.JS-000000?logo=Next.js&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/NEXT.JS-000000?logo=Next.js&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/REACT-555555?logo=React&logoColor=61DAFB&style=for-the-badge)
-![](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge)  
-![](https://img.shields.io/badge/D3.js-F9A03C?logo=D3.js&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/CHAKRA%20UI-319795?logo=Chakra%20UI&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/D3.js-F9A03C?logo=D3.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
 
