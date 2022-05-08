@@ -27,11 +27,11 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding
 ![](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge)
 
 ### Backend as a Service (BaaS)
-![](https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge)  
-![](https://img.shields.io/badge/Firebase-555555?logo=Firebase&logoColor=FFCA28&style=for-the-badge)
+![](https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Firebase-555555?logo=Firebase&logoColor=FFCA28&style=for-the-badge)
 
 ### Testing
 ![](https://img.shields.io/badge/Mocha-8D6748?logo=Mocha&logoColor=white&style=for-the-badge)
