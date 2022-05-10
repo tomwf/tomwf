@@ -25,6 +25,7 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding
 ### Back End Development
 ![](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge)
 
 ### Backend as a Service (BaaS)
 ![](https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=for-the-badge)
