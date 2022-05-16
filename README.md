@@ -9,8 +9,8 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding
 ![](https://img.shields.io/badge/PYTHON-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 
 ### Front End Development
-![](https://img.shields.io/badge/VUE.JS-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/SVELTE-FF3E00?logo=Svelte&logoColor=white&style=for-the-badge)  
+![](https://img.shields.io/badge/SVELTE-FF3E00?logo=Svelte&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/VUE.JS-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/NEXT.JS-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/REACT-555555?logo=React&logoColor=61DAFB&style=for-the-badge)
 ![](https://img.shields.io/badge/JQUERY-0769AD?logo=jQuery&logoColor=white&style=for-the-badge)  
