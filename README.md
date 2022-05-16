@@ -15,7 +15,7 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding
 ![](https://img.shields.io/badge/REACT-555555?logo=React&logoColor=61DAFB&style=for-the-badge)
 ![](https://img.shields.io/badge/JQUERY-0769AD?logo=jQuery&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/CHAKRA%20UI-319795?logo=Chakra%20UI&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/MATERIAL UI-007FFF?logo=MUI&logoColor=white&style=for-the-badge)  
+![](https://img.shields.io/badge/MATERIAL%20UI-007FFF?logo=MUI&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/SASS-CC6699?logo=Sass&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/D3.JS-F9A03C?logo=D3.js&logoColor=white&style=for-the-badge)
