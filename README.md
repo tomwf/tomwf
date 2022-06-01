@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/82bf4fbd-689b-4624-a70b-6072222fdd27.svg)](https://wakatime.com/@82bf4fbd-689b-4624-a70b-6072222fdd27)
+https://www.codewars.com/users/tomwf/badges/micro
 # 👋 Hi there!
 
 I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding Web Applications.
