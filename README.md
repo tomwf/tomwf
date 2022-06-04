@@ -2,7 +2,7 @@
 ![](https://www.codewars.com/users/tomwf/badges/micro)
 # 👋 Hi there!
 
-I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding web apps in Javascript.
+I'm Thomas Chow, a self-taught Full Stack Web Developer who loves coding web apps in Javascript with vim.
 
 ## 🌱 Skills
 
