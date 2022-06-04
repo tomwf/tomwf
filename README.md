@@ -58,9 +58,6 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves vim and coding
 [![](https://img.shields.io/badge/LINKEDIN-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/thomas-chow-68764530)
 [![](https://img.shields.io/badge/TWITTER-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/tomwf_)
 
-💪 I’m looking to collaborate on anything that can improve my skills.  
-✉️ How to reach me: tomwf.chow@gmail.com
-
 <!---
 tomwf/tomwf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
