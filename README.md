@@ -49,11 +49,6 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves coding web app
 ![](https://img.shields.io/badge/VIM-019733?logo=Vim&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/TMUX-1BB91F?logo=tmux&logoColor=white&style=for-the-badge)
 
-### Design
-![](https://img.shields.io/badge/INKSCAPE-000000?logo=Inkscape&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/FIGMA-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/CANVA-00C4CC?logo=Canva&logoColor=white&style=for-the-badge)
-
 ## 🔗 Links
 [![](https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:tomwf.chow@gmail.com)
 [![](https://img.shields.io/badge/LINKEDIN-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/thomas-chow-68764530)
