@@ -7,7 +7,8 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves coding web app
 ## 🌱 Skills
 
 ### Languages
-![](https://img.shields.io/badge/JAVASCRIPT-555555?logo=Javascript&logoColor=F7DF1E&style=for-the-badge)
+![](https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/PYTHON-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/PYTHON-3776AB?logo=Python&logoColor=white&style=for-the-badge)
 
 ### Front End Development
