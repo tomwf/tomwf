@@ -2,7 +2,7 @@
 ![](https://www.codewars.com/users/tomwf/badges/micro)
 # 👋 Hi there!
 
-I'm Thomas Chow, a self-taught Full Stack Web Developer who loves coding web apps in Javascript with vim.
+I'm Thomas Chow, a self-taught Full Stack Software Engineer.
 
 ## 🌱 Skills
 
@@ -29,18 +29,25 @@ I'm Thomas Chow, a self-taught Full Stack Web Developer who loves coding web app
 ### Back End Development
 ![](https://img.shields.io/badge/NODE.JS-339933?logo=Node.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/EXPRESS-000000?logo=Express&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/DJANGO-092E20?logo=Django&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/POSTMAN-FF6C37?logo=Postman&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/ORACLE-F80000?logo=Oracle&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/ELASTICSEARCH-005571?logo=Elasticsearch&logoColor=white&style=for-the-badge)
 
 ### Backend as a Service (BaaS)
+![](https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=FFCA28&style=for-the-badge)
+![](https://img.shields.io/badge/MONGODB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/VERCEL-000000?logo=Vercel&logoColor=white&style=for-the-badge)  
 ![](https://img.shields.io/badge/HEROKU-430098?logo=Heroku&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/NETLIFY-00C7B7?logo=Netlify&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/VERCEL-000000?logo=Vercel&logoColor=white&style=for-the-badge)  
-![](https://img.shields.io/badge/MONGODB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/FIREBASE-555555?logo=Firebase&logoColor=FFCA28&style=for-the-badge)
 
+
 ### Testing
+![](https://img.shields.io/badge/PYTEST-0A9EDC?logo=Pytest&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/MOCHA-8D6748?logo=Mocha&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/CHAI-A30701?logo=Chai&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/CHAI-A30701?logo=Chai&logoColor=white&style=for-the-badge)  
+
 
 ## 🔗 Links
 [![](https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:tomwf.chow@gmail.com)
