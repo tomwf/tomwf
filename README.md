@@ -1,10 +1,12 @@
 [![wakatime](https://wakatime.com/badge/user/82bf4fbd-689b-4624-a70b-6072222fdd27.svg)](https://wakatime.com/@82bf4fbd-689b-4624-a70b-6072222fdd27)
 
-# 👋 Hi there
+## 👋 Hey there
 
-I'm **Thomas Chow**, a self-taught fullstack web weveloper with a passion for building clean, scalable, and user-friendly web applications.
+### 👨‍💻 About Me
 
-## 🌱 Skills & Expertise
+- ⌨️ **Neovim Enthusiast**
+- 🌱 **Constantly Learning**
+- 🧹 **Code Minimalist**
 
 ### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
