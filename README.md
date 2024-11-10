@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-I'm **Thomas Chow**, a self-taught fulltack web weveloper with a passion for building clean, scalable, and user-friendly web applications.
+I'm **Thomas Chow**, a self-taught fullstack web weveloper with a passion for building clean, scalable, and user-friendly web applications.
 
 ## 🌱 Skills & Expertise
 
