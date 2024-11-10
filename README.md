@@ -1,7 +1,6 @@
 ## 👋 Hey there
 
 ### 👨‍💻 About Me
-
 - ⌨️ **Neovim Enthusiast**
 - ☕️ **Espresso Aficionado**
 - 🌱 **Constantly Learning**
