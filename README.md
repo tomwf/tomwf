@@ -23,10 +23,6 @@
 ![NestJS](https://img.shields.io/badge/NESTJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?logo=Django&logoColor=white&style=for-the-badge)  
 
-## 🔗 Connect with Me
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:tomwf.chow@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/thomas-chow-68764530)
-
 <!---
 tomwf/tomwf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
